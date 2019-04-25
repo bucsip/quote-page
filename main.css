@@ -12,6 +12,7 @@ h1 {
   width: device-width;
   margin: auto;
   padding: 50px;
+  padding-bottom: 30px;
   padding-top: 100px;
   font-family: sans-serif;
   text-transform: uppercase;
@@ -26,6 +27,8 @@ html {
   height: 100%;
   background-image: url("asset/person-984282_960_720.jpg");
   background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 
 body {
